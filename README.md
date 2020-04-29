@@ -1,6 +1,8 @@
 # StudyGit
-## [01. base](https://github.com/LeeHwayeon/StudyGit/blob/master/01_base/base.md)  
+## [1. base](https://github.com/LeeHwayeon/StudyGit/blob/master/01_base/base.md)  
   - 저장소 & commit & push
+## [2. branch](https://github.com/LeeHwayeon/StudyGit/blob/master/02_branch/branch.md)
+  - 브랜치 & merge & 관리
   
   
   
