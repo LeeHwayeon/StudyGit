@@ -1,22 +1,8 @@
-# StudyGit
-## [1. base](https://github.com/LeeHwayeon/StudyGit/blob/master/01_base/base.md)  
-  - 저장소 & commit & push
-## [2. branch](https://github.com/LeeHwayeon/StudyGit/blob/master/02_branch/branch.md)
-  - 브랜치 & merge & 관리
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-> 참고문헌  
-  https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F
+# Today I Learned 📝
+
+## Git
+- [base](https://github.com/LeeHwayeon/StudyGit/blob/master/01_base/base.md)  
+- [branch](https://github.com/LeeHwayeon/StudyGit/blob/master/02_branch/branch.md)  
+
+## Algorithm
+- [baekjoon 9498](https://github.com/LeeHwayeon/TIL/blob/master/Algorithm/baekjoon_9498.md)
